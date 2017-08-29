@@ -23,9 +23,7 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
   * Keep up with all daily assignments
   * Research topics that are new or confusing
   * Speak up when you're stuck for more than 15 minutes
-  * **AND:** Above all else, attention to detail.
-
-### Required Materials:  
+  * **AND:** Above all else, attention to detail. 
 
 ## Course Reminders:  
   * Students will build from scratch, and present, a project during weeks 9 & 10.
@@ -36,8 +34,8 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 ## Course Outline:  
 
-### 01: ToDo List  
-> We will be building A ToDo List application to kick off the course!
+### 01: Java Programming  
+> We will be building A simple Todo List app using Java to kick off the course!
 
 * Class 1: Variables, Numeric Types, Strings, Decisions, Functions, Closures, Optionals
 * Class 2: Arrays, Dictionaries, Sets
