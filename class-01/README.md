@@ -34,4 +34,4 @@
 
 ## Other Resources  
 * [Grading Rubrics](../../resources/)  
-* *Insert link to slides* [Lecture Slides]()  
+* [Lecture Slides](https://www.icloud.com/keynote/0CQsXmXsSrZQZelTXIUdeRWfA#class-1)  
