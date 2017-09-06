@@ -105,7 +105,44 @@ public class HelloWorld {
         count++;
     } while(count < 0);
     
+    
+    
+    String somethingToReverse = "Hello Everybody!";
+    
+    Integer index = somethingToReverse.length();
+    
+    String reversed = "";
+    
+    while(index > 0){
+      index--;
+      reversed += somethingToReverse.charAt(index);
+    }
+    
+    log(reversed);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   }
+  
+  
+  
+  
+  
+  
   
   public static void log(Object object){
     System.out.println(object);
