@@ -45,6 +45,20 @@ public class ClassAndInterfaceDemo {
     // 
     // System.out.println(firstThing);
     // 
+    
+    Manager brook = new Manager("Brook", 107);
+    Employee duncan = new Employee("Duncan", 31, 20);
+    
+    brook.fireEmployee(duncan);
+    
+    Employee newDuncan = brook.hireNewPerson(duncan);
+    System.out.println("welcome back! " + newDuncan.name);
+    
+    
+    Ceo appleCEO = new Ceo();
+    appleCEO.name = "Tim Cook";
+    
+    Ceo.CodeFellowsCEO.name = "Jeff";
   }
   
 }
