@@ -13,8 +13,8 @@
 * Declare a Todo class that has a String property named `text`.  
 * Give the Todo class a constructor that takes in the `text` for the corresponding `Todo`.  
 * Define ObjectStore interface with the following methods:  
-  * `add(object)`  
-  * `remove(object)`  
+  * `add(Todo)`  
+  * `remove(Todo)`  
   * `Todo objectAtIndex(int index)`  
   * `int numberOfObjects()`  
   * `Todo[] allTodos()`  
