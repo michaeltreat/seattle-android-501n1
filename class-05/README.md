@@ -1,22 +1,17 @@
-# Class 5 - Intro To Java  
+# Class 5 - Intro To Android Studio
 
 ## Learning Objectives  
-* Students should have a fundamental understanding of the basics of JAVA including:  
-  * 
+* Students should have a fundamental understanding of the basics of Android Studio.
+* Students should feel comfortable navigating the Android Studio IDE.
+* Students should have a general understanding of the `gradle` files.
+* Students should understand how the their UI and other application architechure is builtus XML. 
 
 ## Lab Assignment  
-* Transfer your Todo list code to a new Android Application???
+N/A
 
 ## Reading Assignment (read **before** Class 6):  
-* 
-
-## Submitting Your Assignment  
-- Go to https://gist.github.com, and create a new Gist  
-- In the "Gist description..." field, put your name  
-- In the "Filename including extension..." field put 'HellowWorld-5.java'.  
-- Copy-paste your code from your `HellowWorld-5.java` into the big input field for the Gist.  
-- Select the button that says "Create secret gist"; copy that link for submission in the Canvas assignment.  
-- Add a comment to your Canvas submission with answers to the prompted questions.  
+* [JSON in Android](https://developer.android.com/reference/org/json/JSONObject.html)  
+* [ListView](https://developer.android.com/reference/android/widget/ListView.html)  
 
 ## Other Resources  
 * [Grading Rubrics](../../resources/)  
